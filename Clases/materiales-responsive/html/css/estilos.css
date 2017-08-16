@@ -1,0 +1,54 @@
+body {
+	background-image: url("../images/bg-body.png");
+	background-attachment: fixed;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container{
+	width: 95%;
+	margin: 15px auto 0px auto; 
+}
+
+.logo {
+	border-radius: 50%;
+	margin: 0px auto 30px auto;
+	display: block;
+}
+
+.banner img {
+	width: 100%;
+	display: none;
+	display: block;
+	margin: 0px auto;
+}
+
+/*
+.main-nav ul li {
+	background-color: rgba(0,0,0,0.8);
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+
+.main-nav ul li a {
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	padding: 0px;
+}*/
+
+.main-nav ul li a {
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	padding: 10px 0;
+	text-align: center;
+	display: block;
+	margin-bottom: 5px;
+}
+
+section article img {
+	width: 100%;
+	display: block;
+}

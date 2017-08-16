@@ -1,0 +1,106 @@
+body {
+
+	background-color: #ccec95; 
+	background-image: url("../img/fondo.png");
+	background-attachment: fixed;
+
+}
+
+.titulo {
+
+	font-size: 25px;
+	text-align: center;
+
+}
+
+
+.header {
+
+	width: 960px;
+	padding: 30px;
+	border: 5px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(0,0,0,0.1);
+	box-sizing: border-box;
+
+
+}
+
+.section {
+
+	width: 960px;
+	height: 250px;
+	padding: 30px;
+	border: 5px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+	background-color: rgba(0,0,0,0.1);
+	box-sizing: border-box;
+
+}
+
+.divRight {
+
+	width: 50%;
+	height: 100%;
+	float: right;
+	
+	border: 5px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+	text-align: center;
+	box-sizing: border-box;	
+
+}
+
+.Hobbies {
+
+	font-size: 50px;
+
+}
+
+.divLeft {
+
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	border: 5px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+	text-align: center;
+	box-sizing: border-box;
+
+}
+
+.article {
+
+	border: 5px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+}
+
+.footer {
+
+	width: 960px;
+	padding: 30px;
+	border: 5px;
+	border-style: outset;
+	border-color: rgba(110,160,75,1);
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	background-color: rgba(0,0,0,0.1);
+	box-sizing: border-box;	
+
+
+}
+
